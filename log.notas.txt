@@ -1,5 +1,14 @@
+SAGUS200124
 Funcion de como agrupar para realizar posible ctx del autor/a.
 Bio del autor/a
 Influencias posibles de su tiempo
 Influencias posibles del pasado 
 Contexto del lugar e historico posibles.
+
+SAGUS190124
+posibiliadad de dos bloques temp, 
+  el proto historico de BCE del posible colapso hasta A.Magno
+  y por ultimo almenos de momento el 18 a 21C
+
+Se determina que el archivador se utlizara principialmente como lugar donde agrupar el ctx de los autores
+sus posibles influencias y determinar su bio, ademas de la posibilidad de unirlo con otros autores
